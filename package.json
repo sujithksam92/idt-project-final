@@ -1,0 +1,17 @@
+{
+  "name": "idtproject",
+  "version": "1.0.0",
+  "description": "Weather app",
+  "main": "index.html",
+	"window": {
+    "toolbar": false,
+		"min_width": 800,
+		"min_height": 600,
+		"icon": "Weather_Icon.png"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujith",
+  "license": "MIT"
+}
